@@ -1,11 +1,12 @@
 # Rafael Blachi
 
 **Desenvolvedor de sistemas** — automação, integração de API, painéis e bots.
-Acho o processo manual que custa dinheiro, especifico, construo e **confiro contra a realidade**.
+Acho o processo manual que custa dinheiro, especifico, **construo dirigindo agentes de IA**
+e confiro contra a realidade.
 
 <sub>*Systems developer — automation, API integration, dashboards and bots. I find the manual
-process that costs money, spec it, build it, and verify it against reality. Based in Brazil
-(UTC−03). Open to remote work.*</sub>
+process that costs money, spec it, build it by directing AI coding agents, and verify it
+against reality. Based in Brazil (UTC−03). Open to remote work.*</sub>
 
 ---
 
@@ -57,6 +58,12 @@ o mesmo defeito. Aviso que falha é aviso invisível.
 **Confiro contra a realidade, não contra o meu próprio arquivo.** Os três erros de preço que achei
 no sistema saíram de pedir a conferência no portal da fonte — não de reler o que eu tinha gravado.
 Arquivo de estado não é estado.
+
+**Construo dirigindo agentes de IA — e o trabalho não é pedir, é especificar e conferir.** O código
+sai rápido; o que decide é o que eu exijo dele. Teste que passa sempre não é teste: eu quebro a
+função de propósito e exijo que o teste falhe. Resultado que me agrada é o que eu mando um segundo
+agente tentar refutar — porque a vitória confortável é a que ninguém audita. O que o agente escreve
+é proposta; o que entra em produção passou por medição.
 
 ---
 
